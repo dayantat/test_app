@@ -1,5 +1,3 @@
 == README
-This is just a test mod
-
-asdasfafasd
+Ththad sdkfbasjhbaervjebvk
 <tt>rake doc:app</tt>.
