@@ -1,0 +1,5 @@
+== README
+This is just a test mod
+
+asdasfafasd
+<tt>rake doc:app</tt>.
