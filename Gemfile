@@ -52,4 +52,5 @@ end
 group :production do
   gem 'pg'
   gem 'rails_12factor'
+  gem 'nokogiri', '~> 1.6', '>= 1.6.7'
 end
