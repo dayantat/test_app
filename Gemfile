@@ -51,9 +51,3 @@ group :production do
   gem 'pg'
   gem 'rails_12factor'
 end
-
-begin
-  require 'minitest/autorun'
-rescue LoadError => e
-  raise e unless ENV['RAILS_ENV'] == "production"
-end
